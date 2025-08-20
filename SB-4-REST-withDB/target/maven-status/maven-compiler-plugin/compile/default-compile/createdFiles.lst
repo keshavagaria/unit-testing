@@ -1,0 +1,5 @@
+com\hcl\demo\Sb4SpringBootRestWithDbApplication.class
+com\hcl\demo\service\BookService.class
+com\hcl\demo\controller\BookController.class
+com\hcl\demo\entity\Book.class
+com\hcl\demo\dao\BookRepository.class
